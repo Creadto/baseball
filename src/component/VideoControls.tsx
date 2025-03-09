@@ -16,7 +16,14 @@ export function VideoControls() {
             {/* 타임라인 스크롤 */}
             <input type="range" className="timeline" min="0" max="100" value={progress}/>
 
-            <div style={{display: 'flex', flexDirection: 'row', gap: "20px"}}>
+            <div style={{
+                width: "100%",
+                display: 'flex',
+                flexDirection: 'row',
+                gap: "20px",
+                alignItems:"center",
+                justifyContent:"center"
+            }}>
                 <div className="video-buttons">
                     <button>⏪</button>
                     {/* 뒤로 감기 */}
