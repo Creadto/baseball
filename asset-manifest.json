@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/baseball/static/css/main.d5854370.css",
-    "main.js": "/baseball/static/js/main.b8a91e85.js",
+    "main.js": "/baseball/static/js/main.c3fb1e4d.js",
     "static/js/453.b2fca5db.chunk.js": "/baseball/static/js/453.b2fca5db.chunk.js",
     "index.html": "/baseball/index.html",
     "main.d5854370.css.map": "/baseball/static/css/main.d5854370.css.map",
-    "main.b8a91e85.js.map": "/baseball/static/js/main.b8a91e85.js.map",
+    "main.c3fb1e4d.js.map": "/baseball/static/js/main.c3fb1e4d.js.map",
     "453.b2fca5db.chunk.js.map": "/baseball/static/js/453.b2fca5db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5854370.css",
-    "static/js/main.b8a91e85.js"
+    "static/js/main.c3fb1e4d.js"
   ]
 }
